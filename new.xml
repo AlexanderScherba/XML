@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <firstname>Alexander</firstname>
+  <patronymic>Vladimirovich</patronymic>
+  <lastname>Scherba</lastname>
+  <age>43</age>
+  <pets>5</pets>
+  <salary>10000</salary>
+</root>
